@@ -6,7 +6,7 @@
 
 ## Installation
 
-Just install dependences:
+Just install dependencies:
 ```sh
 $ pip3 install speech_recognition
 $ pip3 install sounddevice
